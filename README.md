@@ -17,11 +17,11 @@ _Itálico e **Negrito** combinados_
 
 ### Linguagens do projeto
 
-*HTML
-*CSS
-*JS
-*MySQL
-*PHP
+* HTML
+* CSS
+* JS
+* MySQL
+* PHP
 
 ### Funcionalidades a desenvolver
 
